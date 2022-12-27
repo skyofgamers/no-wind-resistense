@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+   font-family: 'Rubik Bubbles', cursive;; 
+}
+
+#nice{
+    font-family: 'Unbounded', cursive;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    font-size: larger;
+}
